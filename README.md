@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeiryuu</h1>
-<h3 align="center">Design and Development</h3>
+<h1 align="center">Hi 👋, I'm Jeiryuu. I'm currently studying and my dream is to be a full stack developer. I love watching anime, reading manga, and playing Dota 2.</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeiryuu&label=Profile%20views&color=0e75b6&style=flat" alt="jeiryuu" /> </p>
 
