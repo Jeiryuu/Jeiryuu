@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeiryuu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeiryuu&show_icons=true&theme=onedark)
 
 <h3 align="center">Hi 👋, I'm Jeiryuu. I'm currently studying and my dream is to be a full stack developer. I love watching anime, reading manga, and playing Dota 2.</h3>
 
