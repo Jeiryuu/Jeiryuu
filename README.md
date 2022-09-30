@@ -29,4 +29,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeiryuu&show_icons=true&theme=cobalt)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiryuu&" alt="jeiryuu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiryuu&" alt="jeiryuu"show_icons=true&theme=cobalt /></p>
