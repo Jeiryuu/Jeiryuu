@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeiryuu</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="animation.gif">
+</div>
 
 # 💫 About Me:
 I'm an aspiring Full Stack Developer and Quality Assurance Engineer, currently studying and building my foundation in web development and software testing.<br>
